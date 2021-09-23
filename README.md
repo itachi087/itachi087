@@ -7,5 +7,6 @@
 <!---
 itachi087/itachi087 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> i'm a adminstrator of the sqlmap project.
+---> 
+i'm a adminstrator of the sqlmap project.
 
